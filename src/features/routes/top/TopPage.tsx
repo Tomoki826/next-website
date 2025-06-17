@@ -52,11 +52,11 @@ const TopPage = () => {
           <div className="latest-info-title">★★★　最新情報　★★★</div>
           <HorizontalLine />
           <div className="latest-info">
-            ・サイゼリヤ <Link href="https://www.saizeriya.co.jp/PDF/irpdf001480.pdf" target="_blank">夏の新メニュー</Link>
+            ・サイゼリヤ <Link href="https://www.saizeriya.co.jp/recruit/" target="_blank">新卒社員募集中</Link>
             <br />
-            <span>バッファローモッツァレラのマルゲリータピザ</span>
+            <span>いくつもの人生のそばに、サイゼリヤを</span>
             <br />
-            <span>ミックスグリル 2024年6月12日（水）発売開始</span>
+            <span>フードサービス業で世界を変えていく仲間になろう</span>
           </div>
           <HorizontalLine />
           <div className="attention-info">
