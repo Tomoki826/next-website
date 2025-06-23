@@ -35,7 +35,6 @@ const TopPage = () => {
             the following instagram account.
             <br />
           </div>
-          <div className="contact-info">instagram: <Link href="https://www.instagram.com/tomoki.826/" target="_blank">@tomoki826</Link></div>
           <div className="contact-address">
             大学時代の住所:
             <br />
