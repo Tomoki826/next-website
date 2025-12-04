@@ -1,10 +1,10 @@
-import type { Metadata } from "next";
 import PageTab from "@/features/common/PageTab";
 import "@/utils/globals.css";
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "宇田知生のホームページ",
-  description: "宇田知生って誰なの？",
+  title: "リニューアル中...",
+  description: "Who is udatomoki?",
 };
 
 export default function RootLayout({
