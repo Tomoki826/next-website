@@ -17,7 +17,7 @@ const ProfilePage = () => {
       <div className="profile-title">プロフィール</div>
       <table className="profile-table">
         <tbody>
-          <TableRow title="ステータス" item="リニューアル中..." />
+          <TableRow title="ステータス" item="メンテナンス中..." />
         </tbody>
       </table>
       <HorizontalLine />
